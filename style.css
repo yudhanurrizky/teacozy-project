@@ -1,9 +1,16 @@
 body {
     background-color: black;
     font-size: 22px;
-    color: seashell
+    color: seashell;
+    opacity: 0.9;
 }
 
+main {
+    display: flex;
+    justify-content: center;
+}
+
+/* Header */
 .header {
     height: 69px;
     display: flex; 
@@ -17,4 +24,20 @@ li {
 
 .logo {
     height: 50px;;
+}
+
+/* Mission statement */
+.mission {
+    background-image: url("images/background.jpg");
+    height: 700px; 
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.statement {
+    background-color: black;
+    flex-grow: 1;
 }
