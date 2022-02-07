@@ -111,3 +111,9 @@ li {
     text-align: center;
     height: 200px;
 }
+
+/* footer */
+footer {
+    text-align: left;
+    padding-left: 20px;
+}
