@@ -104,3 +104,9 @@ li {
     margin-left: 40px;
     margin-right: 40px;
 }
+
+/* Contact */
+.contact-section {
+    text-align: center;
+    height: 200px;
+}
