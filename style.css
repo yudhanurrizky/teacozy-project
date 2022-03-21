@@ -70,7 +70,7 @@ li {
 /* Location */
 .location-section {
     display: flex;
-    background-image: url(/images/locations.jpg);
+    background-image: url(images/locations.jpg);
     height: 500px;
     width: 1200px;
     justify-content: center;
